@@ -1,0 +1,15 @@
+MULT=1
+DIV=2
+RES=3
+SUM=4
+PARDER=5
+PARIZQ=6
+NEWLINE=7
+INT=8
+DOUBLE=9
+'*'=1
+'/'=2
+'-'=3
+'+'=4
+'('=5
+')'=6

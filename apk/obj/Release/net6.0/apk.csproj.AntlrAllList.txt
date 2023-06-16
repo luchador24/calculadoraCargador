@@ -1,0 +1,8 @@
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/Expr.interp
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/Expr.tokens
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprBaseListener.cs
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprLexer.cs
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprLexer.interp
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprLexer.tokens
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprListener.cs
+C:/Users/rherr/source/repos/apk/apk/obj/Release/net6.0/ExprParser.cs
